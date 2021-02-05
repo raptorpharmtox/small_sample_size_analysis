@@ -19,6 +19,3 @@ Given that environmental regulations must rely on the best avaialble science, th
 That benefit to society is critically important. When we consider the ethics of animal studies we are weighing the harms on the animals from the actual experiments and deprivation of rights against the higher value of societal beneficience. If that societal benficience is lost, then all that is left is the harms. Under the Principle of Harm, we must minimize or limit harm to others, including animals, as much as possible for our studies to be ethical. From an applied standpoint, without that beneficience, and only being left with harm, these small sample size animal studies are unethical.
 
 Copyright 2021 Raptor Pharm & Tox, Ltd.
-
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
-
