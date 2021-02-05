@@ -1,5 +1,9 @@
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
 
+# Note
+
+The jupyter notebook times out on the github server (runtime is slightly too long), so if you don't have the ability to run jupyter on your computer, please download the HTML report.
+
 # Small Sample Sizes Are Not Inherently Ethical
 
 The purpose of this project is to demonstrate that small sample sizes in toxicological studies are not inherently ethical. In other words, just because a study uses few animals does not mean it comports with the 3Rs principle of "Reduce". On the contrary, typically these small sample size studies are actually unethical.
